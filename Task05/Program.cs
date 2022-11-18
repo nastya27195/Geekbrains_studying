@@ -12,4 +12,4 @@ while (a2 <= a1)
         Console.Write($"{a2++} ","");
 else 
 while (a2 >= a1)
-        Console.Write($"{a2--} " ,"");
+        Console.Write($"{a2--} ","");
