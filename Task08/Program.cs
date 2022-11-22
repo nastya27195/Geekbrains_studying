@@ -10,7 +10,5 @@ while (number > 1)
     {
         Console.WriteLine(number--);
     }
-    else
-    {
-        number = number--;
-    }
+    
+    number--;
