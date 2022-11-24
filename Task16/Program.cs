@@ -20,4 +20,4 @@ bool Square(int numb1, int numb2)
 
 
 bool result = Square(num1, num2);
-Console.WriteLine(result ? "Да" : $"Нет");
+Console.WriteLine(result ? "Да" : "Нет");
