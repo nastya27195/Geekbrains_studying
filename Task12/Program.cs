@@ -23,8 +23,8 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 // bool Multiplicity(int numb1, int numb2)
 // {
-//     if (numb1 % numb2 == 0) return true;
-//     return false;
+//     return numb1 % numb2 == 0;
+// 
 // }
 // bool result = Multiplicity(num1, num2);
 // Console.WriteLine(result ? "Кратно" : $"Не кратно, остаток = {num1 % num2}");
