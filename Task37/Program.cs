@@ -48,5 +48,5 @@ int[] NewArrayMultiplied(int[] arr)
 
 int[] array = CreateArrayRndInt(5, 0, 10);
 PrintArray(array);
-int[] newArr = NewArray(array);
+int[] newArr = NewArrayMultiplied(array);
 PrintArray(newArr);
